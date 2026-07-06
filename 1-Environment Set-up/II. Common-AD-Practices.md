@@ -12,7 +12,7 @@ This section covers a few basic Active Directory tasks potentially in the worksp
 
 ---
 
-## 💾 1. User Password Resetting 
+## 🔐 1. User Password Resetting 
 
 📸 **Unlocking users**
 
@@ -21,23 +21,37 @@ This section covers a few basic Active Directory tasks potentially in the worksp
 
 <img width="1714" height="895" alt="1" src="https://github.com/user-attachments/assets/9efe87c3-f7b0-416d-9cd2-ba9f19d986bd" />
 
-📸 **t**
+📸 **Password resetting**
 
-- Giving user temporary password, for resetting
+- Giving user temporary password, so they can choose and reset on their own when login. 
 
 <img width="1717" height="962" alt="1" src="https://github.com/user-attachments/assets/a6d881f7-1032-4926-adbf-fdf4532fd17d" />
 
 ---
 
-## 🧱 2. Installing AD DS Role
+## 🔨 2. Modifying User Profiles
 
-- Opened **Server Manager**
-- Selected **Add Roles and Features**
-- Installed the **Active Directory Domain Services (AD DS)** role
+- Changing user data such as descriptions, email, phone number, etc. 
 
-📸 **"Add Roles and Features Wizard" with AD Selected**
+📸 **"User description and number modified**
 
-<img width="1920" height="1018" alt="2" src="https://github.com/user-attachments/assets/0ac83233-db72-4a04-8211-1222330397de" />
+<img width="1720" height="890" alt="1" src="https://github.com/user-attachments/assets/86bc4725-4d50-4d30-b7b7-03357d83c974" />
+
+- Adding Objects to Group members.
+
+📸 **Selecting certain groups to be added**
+
+<img width="1715" height="791" alt="1" src="https://github.com/user-attachments/assets/dfd6e795-fbf4-4f4c-9931-87499ff4c8d1" />
+
+- Moving Users/Objets to a different OU
+
+📸 **Finding Users or Objects and click the move function**
+
+<img width="1715" height="893" alt="1" src="https://github.com/user-attachments/assets/7a6ad9af-4615-4b91-bb61-1682df53324b" />
+
+📸 **User has been moved successfully**
+
+<img width="1717" height="889" alt="1" src="https://github.com/user-attachments/assets/497c400c-fa35-4f19-a08a-3a2347d4591c" />
 
 ---
 
