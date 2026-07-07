@@ -86,12 +86,12 @@ This section covers a few basic Active Directory tasks potentially in the worksp
 
 - Created a new User Profile
 
-📸 **Editing object profile (2)**
+📸 **New user successfully created)**
 <img width="1713" height="895" alt="1" src="https://github.com/user-attachments/assets/9e0b4e2a-84c5-4a4d-8486-f9eaf68d1f84" />
 
-- Mirroring the same attributes for the new user, such as their membership, from a user in the same domain or a similar teammate.
+- Mirroring the same attributes for the new user, such as their group membership, from a user in the same domain or a similar teammate.
 
-📸 **Editing object profile (2)**
+📸 **Copying profile attributes from a current member to the new user**
 <img width="1686" height="865" alt="2" src="https://github.com/user-attachments/assets/6c5aa6e3-5533-45e4-ace1-a8f6e8fd679a" />
 
 
