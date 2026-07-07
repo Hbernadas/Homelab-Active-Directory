@@ -2,7 +2,7 @@
 
 This section covers a few basic Active Directory tasks potentially in the workspace. Tasks include profile editing for users including passwords, creating and modifying service accounts, and onboarding new users. 
 
---
+---
 
 ## 0. Filling the directory with pseudo-data 
 
@@ -86,7 +86,7 @@ This section covers a few basic Active Directory tasks potentially in the worksp
 
 - Created a new User Profile
 
-📸 **New user successfully created)**
+📸 **New user successfully created**
 <img width="1713" height="895" alt="1" src="https://github.com/user-attachments/assets/9e0b4e2a-84c5-4a4d-8486-f9eaf68d1f84" />
 
 - Mirroring the same attributes for the new user, such as their group membership, from a user in the same domain or a similar teammate.
