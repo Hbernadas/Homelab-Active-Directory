@@ -1,1 +1,29 @@
-Start here
+# 👷 Group Policy Implementation
+
+This section covers a few basic Active Directory tasks potentially in the workspace. Tasks include profile editing for users including passwords, creating and modifying service accounts, and onboarding new users. 
+
+---
+
+## 0. Filling the directory with pseudo-data 
+
+- Organizational Units: Users, computers, printers, service users
+
+📸 **AD**
+
+---
+
+## 🔐 1. 
+
+---
+
+## 🔨 2. Modifying User Profiles
+
+
+
+---
+
+## 🔧 3. Service Accounts
+
+
+## ✈️ 3. Onboarding
+
